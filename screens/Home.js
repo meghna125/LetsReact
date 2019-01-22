@@ -5,7 +5,7 @@ import { Text, View, StyleSheet } from 'react-native';
   render() {
     return (
       <View style={styles.container}>
-        <Text>Home</Text>
+        <Text>Home Sheetal</Text>
       </View>
     );
   }
