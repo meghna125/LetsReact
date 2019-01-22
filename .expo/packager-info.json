@@ -1,3 +1,9 @@
 {
-  "devToolsPort": 19002
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19003,
+  "packagerPid": 4797,
+  "expoServerNgrokUrl": "https://y3-y3g.anonymous.letsreact.exp.direct",
+  "packagerNgrokUrl": "https://packager.y3-y3g.anonymous.letsreact.exp.direct",
+  "ngrokPid": 4811
 }
