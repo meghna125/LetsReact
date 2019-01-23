@@ -7,6 +7,8 @@ import Profile from './screens/Profile'
 import Cart from './screens/Cart'
 import Fav from './screens/Fav'
 
+
+
 /*
   @dev - Sheetal Kumar
   Date - 23 Jan 2019
@@ -24,6 +26,7 @@ class App extends Component {
     );
   }
 }
+
 
 export default createBottomTabNavigator({
   Home:{
